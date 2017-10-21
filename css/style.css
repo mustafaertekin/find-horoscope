@@ -1,0 +1,59 @@
+#container {
+    margin: 30px;
+}
+
+input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.burc{
+    background-image: url(../img/hosorsopes.png);
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 250px;
+}
+
+.taurus{
+    background-position: -170px 0px
+}
+
+.gemini{
+    background-position: -340px 0px
+}
+
+.cancer{
+    background-position: -510px 0px
+}
+
+.leo{
+    background-position: -680px 0px
+}
+
+.virgo{
+    background-position: -850px 0px
+}
+
+.libra{
+    background-position: -0px -300px
+}
+
+.scorpio{
+    background-position: -170px -300px
+}
+
+.sagittarius{
+    background-position: -340px -300px
+}
+
+.capricorn{
+    background-position: -510px -300px
+}
+
+.aquarius{
+    background-position: -680px -300px
+}
+
+.pisces{
+    background-position: -850px -300px
+}
